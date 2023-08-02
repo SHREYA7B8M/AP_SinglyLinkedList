@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_SinglyLinkedList\AP_SinglyLinkedList\bin\Debug\AP_SinglyLinkedList.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_SinglyLinkedList\AP_SinglyLinkedList\bin\Debug\AP_SinglyLinkedList.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_SinglyLinkedList\AP_SinglyLinkedList\bin\Debug\AP_SinglyLinkedList.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_SinglyLinkedList\AP_SinglyLinkedList\obj\Debug\AP_SinglyLinkedList.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_SinglyLinkedList\AP_SinglyLinkedList\obj\Debug\AP_SinglyLinkedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_SinglyLinkedList\AP_SinglyLinkedList\obj\Debug\AP_SinglyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_SinglyLinkedList\AP_SinglyLinkedList\obj\Debug\AP_SinglyLinkedList.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_SinglyLinkedList\AP_SinglyLinkedList\obj\Debug\AP_SinglyLinkedList.pdb
